@@ -1,0 +1,12 @@
+/*
+Problem Statement : Monk and Inversions
+
+*/
+
+#include <stdio.h>
+
+int main()
+{
+
+    return 0;
+}
